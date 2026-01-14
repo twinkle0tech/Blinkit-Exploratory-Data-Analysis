@@ -48,8 +48,52 @@ The dataset contains information related to:
 ---
 
 ## 📁 Project Structure
-blinkit-data-analysis/
-│
-├── blinkit_eda.ipynb
-├── README.md
-└── dataset/ 
+```
+   blinkit-data-analysis/
+    │
+    ├── blinkit_eda.ipynb
+    ├── README.md
+    └── dataset/  ```
+
+ ---
+
+## 🚀 How to Run the Project
+1. Clone this repository:
+   `git clone https://github.com/your-username/blinkit-data-analysis.git`
+
+2. Open the notebook:
+
+- Upload blinkit_eda.ipynb to Google Colab
+                  OR
+- Run locally using Jupyter Notebook
+
+---
+## 📌 Key Insights
+
+- Sales vary significantly across outlet types
+
+- Certain item categories contribute more to overall revenue
+
+- Visibility and ratings impact sales performance
+
+---
+
+## 🙌 Conclusion
+
+- This EDA provides a clear understanding of Blinkit sales data and can be used as a foundation for:
+
+- Predictive modeling
+
+- Business decision-making
+
+- Further advanced analysis
+
+---
+
+## 👩‍💻 Author
+
+Muskan Tamang
+BCA  Student /
+Learning Data Analysis using Google Colab
+
+---
